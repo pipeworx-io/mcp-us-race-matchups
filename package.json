@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-us-race-matchups",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "US race matchups — one call per federal race: who holds the seat, who is running, which of them won a primary, and how much money is behind each.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "us-race-matchups",
     "gatewaySlug": "us-race-matchups",
-    "sourceHash": "v1-06088e5e0f74323c1727566dfb2fbe6e3af930765227cdbdeccc8d93b158a87b",
-    "sourceCommit": "305e2cd138cb71158e9c1e664ea0e6739bd40801"
+    "sourceHash": "v1-710e39bed0e2a084f4f051d02738f724f6f93eaca2ef42d5e808b60ca119c36f",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
